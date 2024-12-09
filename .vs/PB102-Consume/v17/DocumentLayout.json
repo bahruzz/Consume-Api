@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PB102-Consume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\views\\country\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\views\\country\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\viewmodels\\countryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\viewmodels\\countryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\viewmodels\\countrycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\viewmodels\\countrycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\areas\\admin\\viewmodels\\countryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\areas\\admin\\viewmodels\\countryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|c:\\users\\user\\source\\repos\\pb102-consume\\pb102-consume\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|PB102-Consume\\PB102-Consume.csproj|solutionrelative:pb102-consume\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PB102-Consume\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PB102-Consume\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:45:15.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:37:01.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Views\\Country\\Detail.cshtml",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\Views\\Country\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Views\\Country\\Detail.cshtml",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\Views\\Country\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:13:48.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Views\\Country\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\Views\\Country\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Views\\Country\\Edit.cshtml",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\Views\\Country\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:06:46.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAwwIcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:13:37.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\ViewModels\\CountryEditVM.cs",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\ViewModels\\CountryEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\ViewModels\\CountryEditVM.cs",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\ViewModels\\CountryEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:05:45.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "PB102-Consume\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Models\\Country.cs",
+              "RelativeToolTip": "PB102-Consume\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:13:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\ViewModels\\CountryVM.cs",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\ViewModels\\CountryVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\ViewModels\\CountryVM.cs",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\ViewModels\\CountryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:13:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\ViewModels\\CountryCreateVM.cs",
+              "RelativeDocumentMoniker": "PB102-Consume\\Areas\\Admin\\ViewModels\\CountryCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PB102-Consume\\PB102-Consume\\Areas\\Admin\\ViewModels\\CountryCreateVM.cs",
+              "RelativeToolTip": "PB102-Consume\\Areas\\Admin\\ViewModels\\CountryCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:13:15.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
